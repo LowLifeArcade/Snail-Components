@@ -1,6 +1,6 @@
-# Vue Component Library
+# Snail Components
 
-This is a development environment for Storybook bootstrapped with Vue 3 + Vite.
+This is a developer environment for Snail Components using Storybook and bootstrapped with Vue 3 + Vite.
 
 >1. Clone the repo
 >2. `npm install`
